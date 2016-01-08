@@ -5,7 +5,7 @@ locale: en_US
 description: Computational Quantum Chemistry with random walks through the worlds of computation and chemistry.
 logo: pluto.png
 search: true
-url: shivupa.github.io
+url: http://shivupa.github.io
 
 # Jekyll configuration
 
