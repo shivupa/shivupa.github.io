@@ -34,36 +34,36 @@ Minor in Computing and Informational Studies
 #Experience
 **NSF REU Internship, May 2014-August 2014**  
 **Duquesne University, Pittsburgh, Pennsylvania**  
-  * Research assistant to Dr. Jeffry Madura
-  * Researched the SSNMR chemical shift peak matching of organic crystals
-  * Presented research at ACS Central Regional Meeting 2014
-  * Collaborated on the production of a pedagogical tool for quantum chemistry with Matthew Srnec PhD Candidate
+* Research assistant to Dr. Jeffry Madura
+* Researched the SSNMR chemical shift peak matching of organic crystals
+* Presented research at ACS Central Regional Meeting 2014
+* Collaborated on the production of a pedagogical tool for quantum chemistry with Matthew Srnec PhD Candidate
 **Independent Study, May 2014-August 2014**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
-  * Conducted research on the SSNMR chemical shift peak matching of geometry optimized organic crystals
-  * Presented research at ACS National Conference 2015
+* Conducted research on the SSNMR chemical shift peak matching of geometry optimized organic crystals
+* Presented research at ACS National Conference 2015
 **Senior Physics Research, August 2014-May 2015**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
 **Developed Quantum Mechanical simulations in Java:**  
-  * Variational particle in a box
-  * Variational hydrogen atom
-  * Hartree-Fock treatment of the Helium ground state
+* Variational particle in a box
+* Variational hydrogen atom
+* Hartree-Fock treatment of the Helium ground state
 
 #Employment
 **Computer Laboratory Assistant, August 2012-May 2013**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
-  * Managed and maintained the computer labs of the college.
+* Managed and maintained the computer labs of the college.
 
 **Staples EasyTech Assistant, August 2013-May 2014**  
 **Staples store 0929, Washington, Pennsylvania**  
-  * Handled the repair of customer computers  
-  * Assisted customers in selecting the correct products for their needs  
-  * Maintained the technology department as part of the EasyTech team  
+* Handled the repair of customer computers  
+* Assisted customers in selecting the correct products for their needs  
+* Maintained the technology department as part of the EasyTech team  
 
 **Student Web Manager, August 2013-May 2015**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
-  * Assisted in the production and upkeep of the Washington and Jefferson College website  
-  * Organized the content in a logical, indexed manner  
+* Assisted in the production and upkeep of the Washington and Jefferson College website  
+* Organized the content in a logical, indexed manner  
 
 #Activities
 * Vice President, W&J Chess Club, 2012-2014
