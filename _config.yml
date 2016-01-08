@@ -3,9 +3,9 @@
 title: CompChem
 locale: en_US
 description: Computational Quantum Chemistry with random walks through the worlds of computation and chemistry.
-logo: site-logo.png
+logo: pluto.png
 search: true
-url: http://localhost:4000
+url: shivupa.github.io
 
 # Jekyll configuration
 
