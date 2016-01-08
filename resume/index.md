@@ -44,26 +44,29 @@ Minor in Computing and Informational Studies
 * Presented research at ACS National Conference 2015
 **Senior Physics Research, August 2014-May 2015**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
-**Developed Quantum Mechanical simulations in Java:**  
+**Developed Quantum Mechanical simulations in Java:**
+
 * Variational particle in a box
 * Variational hydrogen atom
 * Hartree-Fock treatment of the Helium ground state
 
 #Employment
 **Computer Laboratory Assistant, August 2012-May 2013**  
-**Washington & Jefferson College, Washington, Pennsylvania**  
+**Washington & Jefferson College, Washington, Pennsylvania**
+
 * Managed and maintained the computer labs of the college.
 
 **Staples EasyTech Assistant, August 2013-May 2014**  
 **Staples store 0929, Washington, Pennsylvania**  
-* Handled the repair of customer computers  
-* Assisted customers in selecting the correct products for their needs  
-* Maintained the technology department as part of the EasyTech team  
+* Handled the repair of customer computers
+* Assisted customers in selecting the correct products for their needs
+* Maintained the technology department as part of the EasyTech team
 
 **Student Web Manager, August 2013-May 2015**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
-* Assisted in the production and upkeep of the Washington and Jefferson College website  
-* Organized the content in a logical, indexed manner  
+
+* Assisted in the production and upkeep of the Washington and Jefferson College website
+* Organized the content in a logical, indexed manner
 
 #Activities
 * Vice President, W&J Chess Club, 2012-2014
