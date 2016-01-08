@@ -18,7 +18,7 @@ upadhya1@duq.edu
 **Graduate Student in Chemistry**  
 
 **Bachelor of Arts in Biological Physics, May 2015**  
-[**Washington and Jefferson College**](www.washjeff.edu)**, Washington, Pennsylvania**  
+**[Washington and Jefferson College](www.washjeff.edu), Washington, Pennsylvania**  
 Minor in Computing and Informational Studies 
 
 #Computer Languages  
