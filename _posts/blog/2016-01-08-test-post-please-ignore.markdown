@@ -1,0 +1,15 @@
+---
+layout: post
+title: A New Dawn
+modified:
+categories: blog/
+excerpt:
+tags: []
+image:
+  feature:
+date: 2016-01-08T10:53:27-05:00
+---
+
+## A New Site
+
+Today marks the launch of this site. Forgoing the renewal of expensive hosting, I've chosen to move my digital footprint to Github!
