@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TEST POST PLEASE IGNORE
+title: A New Site
 modified:
 categories: blog/
 excerpt:
