@@ -29,3 +29,16 @@ Minor in Computing and Informational Studies
 * HTML5/CSS/SQL
 * Matlab/Mathematica/R
 
+#Employment
+
+#Activities
+* Vice President, W&J Chess Club, 2012-2014
+* President, W&J Chess Club, 2015
+* Founding member, W&J Programming Team, 2013-2015
+* Captain, W&J Programming Team, 2014-2015
+* Participant, ACM International Collegiate Programming Contest, 2014
+* 3rd Place finisher, Consortium for Computing Sciences in Colleges Programming Contest, 2015
+* Presenter, ACS Central Regional Meeting, 2014
+* Presenter, ACS National Meeting, 2015
+* Treasurer, Society of Physics Students, 2014-2015
+
