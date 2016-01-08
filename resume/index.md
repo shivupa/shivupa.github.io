@@ -57,7 +57,8 @@ Minor in Computing and Informational Studies
 * Managed and maintained the computer labs of the college.
 
 **Staples EasyTech Assistant, August 2013-May 2014**  
-**Staples store 0929, Washington, Pennsylvania**  
+**Staples store 0929, Washington, Pennsylvania**
+
 * Handled the repair of customer computers
 * Assisted customers in selecting the correct products for their needs
 * Maintained the technology department as part of the EasyTech team
