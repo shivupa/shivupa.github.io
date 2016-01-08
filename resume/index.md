@@ -20,5 +20,11 @@ upadhya1@duq.edu
 [**Washington and Jefferson College**](www.washjeff.edu)**, Washington, Pennsylvania**
 Minor in Computing and Informational Studies 
 
-
+#Computer Languages
+*Python
+*Java
+*Bash/Perl
+*C\#/VB
+*HTML5/CSS/SQL
+*Matlab/Mathematica/R
 
