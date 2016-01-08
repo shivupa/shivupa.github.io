@@ -22,10 +22,10 @@ upadhya1@duq.edu
 Minor in Computing and Informational Studies 
 
 #Computer Languages  
-*Python
-*Java
-*Bash/Perl
-*C\#/VB
-*HTML5/CSS/SQL
-*Matlab/Mathematica/R
+* Python
+* Java
+* Bash/Perl
+* C\#/VB
+* HTML5/CSS/SQL
+* Matlab/Mathematica/R
 
