@@ -10,6 +10,6 @@ image:
 date: 2016-01-08T10:53:27-05:00
 ---
 
-## A New Site
+## The launch of [shivupa.github.io](shivupa.github.io)
 
 Today marks the launch of this site. Forgoing the renewal of expensive hosting, I've chosen to move my digital footprint to Github!
