@@ -3,6 +3,7 @@ layout: post
 title: A New Site
 modified:
 categories: blog/
+comments: true
 excerpt:
 tags: []
 image:
