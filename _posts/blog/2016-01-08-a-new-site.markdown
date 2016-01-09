@@ -2,7 +2,7 @@
 layout: post
 title: A New Site
 modified:
-categories: blog/
+categories: blog
 excerpt:
 tags: []
 image:
