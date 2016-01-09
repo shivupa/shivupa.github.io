@@ -34,12 +34,14 @@ Minor in Computing and Informational Studies
 #Experience
 **NSF REU Internship, May 2014-August 2014**  
 **Duquesne University, Pittsburgh, Pennsylvania**  
+
 * Research assistant to Dr. Jeffry Madura
 * Researched the SSNMR chemical shift peak matching of organic crystals
 * Presented research at ACS Central Regional Meeting 2014
 * Collaborated on the production of a pedagogical tool for quantum chemistry with Matthew Srnec PhD Candidate
 **Independent Study, May 2014-August 2014**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
+
 * Conducted research on the SSNMR chemical shift peak matching of geometry optimized organic crystals
 * Presented research at ACS National Conference 2015
 **Senior Physics Research, August 2014-May 2015**  
