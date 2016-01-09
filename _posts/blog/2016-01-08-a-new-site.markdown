@@ -5,8 +5,8 @@ modified:
 categories: blog
 excerpt:
 tags: []
-image:
-  feature: earthrise.jpg
+image: earthrise.jpg
+  feature: 
 date: 2016-01-08T10:53:27-05:00
 ---
 
