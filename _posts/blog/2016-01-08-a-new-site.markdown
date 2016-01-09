@@ -12,5 +12,5 @@ date: 2016-01-08T10:53:27-05:00
 
 ## The launch of [shivupa.github.io](shivupa.github.io)
 
-Today marks the launch of this site. Forgoing the renewal of expensive hosting, I've chosen to move my digital footprint to Github! I aim to use this site as a web resume, but also as a blog as I create computational chemistry related content.
+Today marks the launch of this site. Forgoing the renewal of expensive hosting, I've chosen to move my digital footprint to Github! I aim to use this site as a web resume, but also as a blog featuring content related to computational chemistry.
 
