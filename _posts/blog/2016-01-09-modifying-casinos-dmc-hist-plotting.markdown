@@ -13,7 +13,7 @@ CASINO is distributed with a means of visualizing the results of a Diffusion Mon
 
 #The Solution:
 I decided if gnuplot saved an image instead of attempting to draw to screen then this would solve the problem. I modified the original command and output a vector image (SVG).  Using inkscape, I then rendered to a 600 dpi png.  
-Modified Code is available on my github [here](https://github.com/shivupa/CASINO_PLOTTING).  
+Modified Code is unavailable in compliance with the legal agreement with CASINO.   
 ![Modified Plot](CASINOPLOTTING/OriginalModified/output.png)
 
 #The Solution (part 2):
