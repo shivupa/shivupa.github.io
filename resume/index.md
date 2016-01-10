@@ -40,7 +40,7 @@ Minor in Computing and Informational Studies
 * Presented research at ACS Central Regional Meeting 2014
 * Collaborated on the production of a pedagogical tool for quantum chemistry with Matthew Srnec PhD Candidate
 
-**Independent Study, May 2014-August 2014**  
+**Independent Study, August 2014-December 2014**  
 **Washington & Jefferson College, Washington, Pennsylvania**  
 
 * Conducted research on the SSNMR chemical shift peak matching of geometry optimized organic crystals
