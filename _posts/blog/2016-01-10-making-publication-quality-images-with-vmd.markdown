@@ -17,6 +17,7 @@ I am a bit obsessive when it comes to the quality of images I produce. I have tw
 Rendering an image from VMD falls into the second category, but without setting it up correctly just rendering at 4k doesn't look very great. Proper rendering in VMD requires the use of a ray tracing engine. Ray tracing is essentially a method that simulates the path of light in a scene and the interactions of these paths with the materials in the scene. I'll provide an example here of rendering a water molecule.
 
 Steps:
+
 1. Load a PDB and set the axes off and the background to white
 
 ![Step 1](Step1.png "Step1")
