@@ -17,4 +17,4 @@ Modified Code is available on my github [here](https://github.com/shivupa/CASINO
 # The Solution (part 2):
 The plot was acceptable, but I like to do things myself so I wrote a python program to do the same thing. I also included a legend and modified the plot titles. I like consistency so this will match the style of the other plots in my presentations, etc.  
 Once again, the python code is available on my github [here](https://github.com/shivupa/CASINO_PLOTTING).  
-![Modified Plot](_Posts/blog/CASINOPLOTTING/Python/output.png)
+![Modified Plot](CASINOPLOTTING/Python/output.png)
