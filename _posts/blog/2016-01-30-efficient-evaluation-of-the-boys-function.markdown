@@ -2,7 +2,7 @@
 layout: post
 title: Efficient Evaluation of the Boys Function
 modified:
-categories: 
+categories: blog
 excerpt:
 tags: []
 image:
