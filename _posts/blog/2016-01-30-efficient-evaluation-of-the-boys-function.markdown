@@ -60,4 +60,4 @@ The later point is critical what I should be doing is calculating the Boys funct
 1. [Molecular Electronic-Structure Theory](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118531477.html)
 2. [Evaluation of the Boys Function using Analytical Relations](http://link.springer.com/article/10.1007/s10910-005-9023-3)
 3. [A rigorous and optimized strategy for the evaluation of the Boys function kernel in molecular electronic structure theory](http://onlinelibrary.wiley.com/doi/10.1002/jcc.23935/abstract)
-4. [ACE algorithm for the rapid evaluation of the electron-repulsion integral over Gaussian-type orbitals](http://onlinelibrary.wiley.com/doi/10.1002/(SICI\)1097-461X(1996\)59:3%3C209::AID-QUA4%3E3.0.CO;2-1/full?2-1/full)
+4. [ACE algorithm for the rapid evaluation of the electron-repulsion integral over Gaussian-type orbitals](http://onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-461X(1996)59:3%3C209::AID-QUA4%3E3.0.CO;2-1/full?2-1/full)
