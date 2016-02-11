@@ -10,11 +10,11 @@ image:
 date: 2016-01-08T16:41:26-05:00
 ---
 
-#Shiv Upadhyay  
+# Shiv Upadhyay  
 shivnupadhyay@gmail.com  
 upadhya1@duq.edu
 
-#Education
+# Education
 **Graduate Student in Chemistry**  
 **Duquesne University, Pittsburgh, Pennsylvania**  
 Pursuing a Ph.D. in Computational Quantum Chemistry
@@ -23,7 +23,7 @@ Pursuing a Ph.D. in Computational Quantum Chemistry
 **Washington and Jefferson College, Washington, Pennsylvania**  
 Minor in Computing and Informational Studies
 
-#Computer Languages  
+# Computer Languages  
 * Python
 * Java
 * Bash/Perl
@@ -31,7 +31,7 @@ Minor in Computing and Informational Studies
 * HTML5/CSS/SQL
 * Matlab/Mathematica/R
 
-#Experience
+# Experience
 **NSF REU Internship, May 2014-August 2014**  
 **Duquesne University, Pittsburgh, Pennsylvania**  
 
@@ -54,7 +54,7 @@ Minor in Computing and Informational Studies
 * Variational hydrogen atom
 * Hartree-Fock treatment of the Helium ground state
 
-#Employment
+# Employment
 **Computer Laboratory Assistant, August 2012-May 2013**  
 **Washington & Jefferson College, Washington, Pennsylvania**
 
@@ -73,7 +73,7 @@ Minor in Computing and Informational Studies
 * Assisted in the production and upkeep of the Washington and Jefferson College website
 * Organized the content in a logical, indexed manner
 
-#Activities
+# Activities
 * Vice President, W&J Chess Club, 2012-2014
 * President, W&J Chess Club, 2015
 * Founding member, W&J Programming Team, 2013-2015
