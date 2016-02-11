@@ -24,13 +24,15 @@ $body-color         : #E8E8E8;
 $text-color         : #222;
 $base-color         : #343434;    
 $comp-color         : spin($base-color, 180); 
-$border-color       : #ddd;
+$border-color       : #A1B56C;
+//$border-color       : #ddd;
 $white              : #E8E8E8;
 //$white              : #fff;
 $black              : #383838;
 //$black              : #000;
 $accent-color       : $black;
-$link-color         : #222;
+$link-color         : #7CAFC2;
+//$link-color         : #222;
 
 $table-border-color           : $border-color;
 $table-border                 : 1px solid $table-border-color;
