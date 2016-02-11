@@ -2,7 +2,7 @@
 
 title: Shiv Upadhyay
 locale: en_US
-description: Random walks through the worlds of computation, quantum mechanics, and chemistry.
+description: Random walks through the worlds of <span style="color:red;">computation</span>, quantum mechanics, and chemistry.
 logo: pluto.jpg
 search: true
 url: http://shivupa.github.io
