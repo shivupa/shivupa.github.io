@@ -20,17 +20,17 @@ body {
 
 // COLORS =====================================================
 $body-color         : #fff;
-$text-color         : #222;
-$base-color         : #383838;    
+$text-color         : #000;
+$base-color         : #000;    
 $comp-color         : spin($base-color, 180); 
-$border-color       : #F7CA88;
+$border-color       : #ddd;
 //$border-color       : #ddd;
 $white              : #383838;
 //$white              : #fff;
-$black              : #383838;
+$black              : #000;
 //$black              : #000;
 $accent-color       : $black;
-$link-color         : #fff;
+$link-color         : #222;
 //$link-color         : #222;
 
 $table-border-color           : $border-color;
